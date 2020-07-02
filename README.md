@@ -1,68 +1,94 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+    <img alt="GitExplorer" title="GitExplorer" src=".github/git-explorer.png" width="200px" />
+</p>
 
-## Available Scripts
+<h1 align="center">
+  🔍 Github Explorer
+</h1>
 
-In the project directory, you can run:
+<p align="center">
+<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/Johnny-Saraiva/git-explorer-js?color=blueviolet">
+<img alt="Made by Johnny" src="https://img.shields.io/badge/made%20by-Johnny Saraiva-%20?color=blueviolet">
+<img alt="Project top programing language" src="https://img.shields.io/github/languages/top/Johnny-Saraiva/git-explorer-js?color=blueviolet">
+<img alt="GitHub license" src="https://img.shields.io/github/license/Johnny-Saraiva/git-explorer-js?color=blueviolet">
+</p>
 
-### `yarn start`
+<p align="center">
+  <a href="#computer-about-the-project">About the Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#hammer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#mailbox-contacts">Contacts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<br>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<p align="center">
+  <img alt="GitExplorer" src=".github/git-explorer.gif" width="100%">
+</p>
 
-### `yarn test`
+<br>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :computer: About the Project
 
-### `yarn build`
+A search engine for repositories, based on the Github API.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :hammer: Technologies
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+This project was built with:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-  [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+-  [ESLint](https://eslint.org/)
+-  [Prettier](https://prettier.io/)
+-  [EditorConfig](https://editorconfig.org/)
+-  [styled-components](https://styled-components.com/)
+-  [ReactJS](https://reactjs.org/)
+-  [Axios](https://www.npmjs.com/package/axios)
+-  [VS Code](https://code.visualstudio.com/)
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :rocket: Getting Started
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Clone or Download the Repository**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```bash
+$ git clone https://github.com/Johnny-Saraiva/git-explorer-js.git
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Open the folder
+$ cd git-explorer-js
 
-## Learn More
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Installing Dependencies**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+# if you use yarn, run this:
 
-### Code Splitting
+$ yarn
+```
+or
+```bash
+# if you use npm, run this:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+$ npm install
+```
 
-### Analyzing the Bundle Size
+### To start the project:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+```bash
 
-### Making a Progressive Web App
+$ yarn start
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+```
 
-### Advanced Configuration
+## :mailbox: Contacts
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+Connect with me on [LinkedIn](https://www.linkedin.com/in/johnny-saraiva-701641164/).
 
-### Deployment
+## :memo: License
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+This project is under the MIT license. See the [LICENSE](LICENSE.md) for more information..
 
-### `yarn build` fails to minify
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Made with ❤️ by Johnny Saraiva 👋 [Get in touch!](https://www.linkedin.com/in/johnny-saraiva-701641164/)
